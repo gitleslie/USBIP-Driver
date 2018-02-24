@@ -1,0 +1,4 @@
+1>warnings in directory c:\users\lenovo\desktop\bluescreen\usbip-windows-master\trunk\driver
+1>c:\users\lenovo\desktop\bluescreen\usbip-windows-master\trunk\driver\busenum.rc(10) : warning RC4005: 'VER_PRODUCTVERSION' : redefinition
+1>c:\users\lenovo\desktop\bluescreen\usbip-windows-master\trunk\driver\busenum.rc(11) : warning RC4005: 'VER_PRODUCTVERSION_STR' : redefinition
+1>c:\users\lenovo\desktop\bluescreen\usbip-windows-master\trunk\driver\busenum.rc(13) : warning RC4005: 'VER_PRODUCTNAME_STR' : redefinition
